@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/**   
+/**
  *main - print the numbers since 0
  *
  *Return: Always (Success)
