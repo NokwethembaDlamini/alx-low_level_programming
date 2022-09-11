@@ -1,7 +1,7 @@
-#include <stdio.h>                                                                                                       
+#include <stdio.h>
 
 /**   
- *main - print the numbers since 0 
+ *main - print the numbers since 0
  *
  *Return: Always (Success)
  */
@@ -14,5 +14,5 @@ int main(void)
 		putchar(n);
 	}
 	putchar('\n');
-	return (0);	
+	return (0);
 }
