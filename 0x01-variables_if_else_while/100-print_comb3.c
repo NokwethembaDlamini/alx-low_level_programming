@@ -13,7 +13,7 @@ int main(void)
 	{
 		for (j = 1; j <= 9; i++)
 		{
-			if (j > i);
+			if (j > i)
 			{
 				putchar(i + '0');
 				putchar(j + '0');
@@ -27,4 +27,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
-}
+i}
