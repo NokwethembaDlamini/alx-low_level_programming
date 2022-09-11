@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- *main - prints series of numbers with commas
+ *main - prints "series of numbers with commas"
  *
- *Return: Always (Successful)
+ *Return: Always (Successful);
  */
 int main(void)
 {
