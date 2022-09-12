@@ -4,7 +4,7 @@
  *main - print possible combination of two 2-digit
  *numbers
  *
- *Return: returns zero at the end
+ *Return: 0
  */
 int main(void)
 {
