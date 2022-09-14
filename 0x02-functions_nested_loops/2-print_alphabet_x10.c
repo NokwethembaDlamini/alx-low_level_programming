@@ -5,7 +5,7 @@
  *
  *Return: Always 0 (Success)
  */
-int void print_alphabet_x10(void)
+void print_alphabet_x10(void)
 {
 	int num, i;
 
