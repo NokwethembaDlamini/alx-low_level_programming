@@ -5,7 +5,7 @@
  *@c: a charter to be checked on
  *Return: returns 0 or 1 depending on a condition
  */
-int _isalpha(int c);
+int _isalpha(int c)
 {
 	return ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'));
 }
