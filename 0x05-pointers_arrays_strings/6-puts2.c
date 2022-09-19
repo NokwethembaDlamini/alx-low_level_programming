@@ -3,7 +3,7 @@
 
 /**
  *puts2 - prints every character
- @str: string
+ *@str: string
  *Description: a fuction that prints every other characters
  *Return: Always 0.
  */
