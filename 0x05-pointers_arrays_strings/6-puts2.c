@@ -4,7 +4,7 @@
 /**
  *puts2 - prints every character
  @str: string
- *
+ *Description: a fuction that prints every other characters
  *Return: Always 0.
  */
 void puts2(char *str)
