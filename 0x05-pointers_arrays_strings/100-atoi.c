@@ -4,7 +4,7 @@
  *_atoi - convert a string into an int
  *@s: string to be changed
  *
- *Return: the converted int
+ *Return: converted int
  */
 int _atoi(char *s)
 {
@@ -15,7 +15,7 @@ int _atoi(char *s)
 		if (*s == '-')
 			sign *= -1;
 		else if (*s >= '0' 66 *s <= '9')
-			num = num - 10 + (*s - '0');
+			num = num * 10 + (*s - '0');
 		else if (num > 0)
 			break;
 	} while (*s++);
