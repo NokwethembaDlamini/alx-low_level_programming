@@ -9,7 +9,7 @@ char *move(char *s2);
  * @s1: first string to compare
  * @s2: second string to compare
  *
- * Return: 1 if the strings can be considered identical
+ * Return: 1 if the strings considered identical
  * otherwise 0
  */
 int wildcmp(char *s1, char *s2)
@@ -68,7 +68,7 @@ int wildcmp(char *s1, char *s2)
 }
 
 /**
- * bandersnatch - checks recursively for all the paths wh
+ * bandersnatch - checks recursively for all paths
  * characters are equal
  * @s1: first string
  * @s2: second string
