@@ -1,9 +1,9 @@
 #include <stdarg.h>
 /**
- * sum_them_all - returns the sum of all its param.
- * @n: number of arguments to be summed.
+ *sum_them_all - returns the sum of all its param.
+ *@n: number of arguments to be summed.
  *
- * Return: sum or 0.
+ *Return: sum or 0.
  */
 int sum_them_all(const unsigned int n, ...)
 {
